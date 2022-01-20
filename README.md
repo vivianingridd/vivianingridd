@@ -3,9 +3,9 @@
 
 
 
-- 🚀 I'm starting my careers as a backend developer.
+- 🚀 I'm starting my careers as a Backend developer.
 - 💻 I’m currently working with Java.
-- 🐵 I'm a Backend Developer Intern at Monkey Exchange.
+- 🐵 I’m a Backend Developer Intern at Monkey Exchange.
 
 
 <div align="">
