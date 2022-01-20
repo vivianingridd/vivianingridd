@@ -11,7 +11,7 @@
 <div align="">
   <a href="https://github.com/vivianingridd">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vivianingridd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianingridd&layout=compact&langs_count=7&theme=dracula"/>
+
     
 ##
 
