@@ -1,17 +1,19 @@
 ### Hi, I'm Vivian! ✨
 
 
-Here are some ideas to get you started:
+
 
 - 🚀 I'm starting my careers as a backend developer.
 - 💻 I’m currently working with Java.
 - 🐵 I'm a Backend Developer Intern at Monkey Exchange.
 
 
-<div align="center">
+<div align="">
   <a href="https://github.com/vivianingridd">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivianingridd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
-  
+    
+##
 
+  <a href="https://www.linkedin.com/in/vivian-lopes-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
