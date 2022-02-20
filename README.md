@@ -4,7 +4,7 @@
 
 
 - 🚀 I'm starting my career as a Backend developer.
-- 💻 I’m currently working with Java.
+- 💻 I’m currently learnig Java.
 - 🐵 I’m a Backend Developer Intern at Monkey Exchange.
 
 
