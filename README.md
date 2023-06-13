@@ -3,7 +3,7 @@
 
 
 
- 🚀 I'm starting my career as a Back-end developer.
+ 🚀 I'm a Java Back-end developer.
 
 ##
 
